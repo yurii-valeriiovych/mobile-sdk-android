@@ -2,18 +2,18 @@
 
 # Crowdin Android SDK
 
-Crowdin Android SDK delivers all new translations from Crowdin project to the application immediately. So there is no need to update this application via Google Play Store to get the new version with the localization.
+Crowdin Android SDK негайно доставляє всі нові переклади з проекту Crowdin до програми. Тому не потрібно оновлювати додаток через Google Play Store, щоб отримати нову версію з локалізацією.
 
-The SDK provides:
+SDK надає:
 
-* Over-The-Air Content Delivery – the localized content can be sent to the application from the project whenever needed.
-* Real-Time Preview – all the translations that are done in the Editor can be shown in your version of the application in real-time. View the translations already made and the ones you're currently typing in.
-* Screenshots – all the screenshots made in the application may be automatically sent to your Crowdin project with tagged source strings.
+* За-Детент повітря - локалізований вміст можна відправляти в додаток з проекту при потребі.
+* Попередній перегляд у режимі реального часу - всі зроблені в редакторі можуть бути показані у вашій версії програми в режимі реального часу. Переглядайте вже зроблені переклади і ті, які ви зараз вводите.
+* Скріншоти - всі знімки екрану, зроблені в програмі, можуть автоматично надсилати до вашого проекту Crowdin з мітками вихідних рядків.
 
 <div align="center">
 
  [**`SDK Docs`**](https://crowdin.github.io/mobile-sdk-android) |
- [**`Example project`**](https://github.com/crowdin/mobile-sdk-android/tree/master/example) |
+ [**`Природний проект`**](https://github.com/crowdin/mobile-sdk-android/tree/master/example) |
  [**`Crowdin docs`**](https://support.crowdin.com/content-delivery) | 
  [**`Crowdin Enterprise docs`**](https://support.crowdin.com/enterprise/content-delivery)
 
@@ -30,25 +30,25 @@ The SDK provides:
 
 </div>
 
-## Usage
+## Використання
 
-Visit the official [documentation](https://crowdin.github.io/mobile-sdk-android/) for more details.
+Відвідайте офіційну [документацію](https://crowdin.github.io/mobile-sdk-android/) для отримання додаткової інформації.
 
-## Contributing
+## Зробити внесок
 
-If you would like to contribute, please read the [Contributing](/CONTRIBUTING.md) guidelines.
+Якщо ви хочете зробити внесок, будь ласка, прочитайте [та підтримайте](/CONTRIBUTING.md).
 
-## Seeking Assistance
+## Потрібна допомога
 
-If you find any problems or would like to suggest a feature, please feel free to file an issue on GitHub at the [Issues Page](https://github.com/crowdin/mobile-sdk-android/issues).
+Якщо знайдете будь-які проблеми або хочете запропонувати функцію, будь ласка, не соромтеся подавати на GitHub проблему в [Сторінці "Issues](https://github.com/crowdin/mobile-sdk-android/issues).
 
-## License
+## Ліцензія
 <pre>
-The Crowdin Android SDK is licensed under the MIT License.
-See the LICENSE file distributed with this work for additional 
-information regarding copyright ownership.
+Crowdin Android SDK ліцензований за ліцензією MIT.
+Перегляньте LICENSE файл який розповсюдив цю роботу для додаткової 
+інформації про право власності на авторські права.
 
-Except as contained in the LICENSE file, the name(s) of the above copyright 
-holders shall not be used in advertising or otherwise to promote the sale, 
-use or other dealings in this Software without prior written authorization.
+Окрім тих, що містяться в файлі LICENSE, ім'я вищевказаного авторського права 
+власникам не повинні використовуватися в рекламі або в іншому випадку для просування продажу, 
+використовувати або інші операції в цьому програмному забезпеченні без попереднього письмової авторизації.
 </pre>
